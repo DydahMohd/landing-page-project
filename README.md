@@ -1,6 +1,6 @@
-# Nexa — Landing Page Project
+# Hadija Mohamedi — Landing Page Project
 
-A responsive fictional-company landing page built with semantic HTML, modern CSS, and vanilla JavaScript for the landing-page development assignment.
+A responsive personal landing page built with semantic HTML, modern CSS, and vanilla JavaScript for the landing-page development assignment.
 
 ## Requirements covered
 
@@ -17,8 +17,7 @@ A responsive fictional-company landing page built with semantic HTML, modern CSS
 
 ## Typography
 
-- **Playfair Display** for headings and major display text
-- **Inter** for body text, navigation and interface text
+- **Playfair Display** for all page text, including headings, body copy, navigation and interface text
 
 ## Features
 - Responsive header and navigation
@@ -44,4 +43,4 @@ Open index.html in a browser, or serve the folder with any static HTTP server.
 The project is suitable for GitHub Pages, Netlify, or Vercel because it is a static site.
 
 ## Note
-Nexa is a fictional company created for a landing-page development assignment.
+Hadija Mohamedi is a fictional company created for a landing-page development assignment.
