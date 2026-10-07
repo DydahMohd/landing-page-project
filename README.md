@@ -1,6 +1,24 @@
 # Nexa — Landing Page Project
 
-A responsive fictional-company landing page built with semantic HTML, modern CSS, and vanilla JavaScript.
+A responsive fictional-company landing page built with semantic HTML, modern CSS, and vanilla JavaScript for the landing-page development assignment.
+
+## Requirements covered
+
+- Header with logo and navigation: Home, About, Services, Contact
+- Hero section with headline, supporting text and CTA button
+- Services/features section with 3 cards
+- Testimonials section with 3 testimonials
+- Footer with contact information and social media links
+- Responsive layout for desktop, tablet and mobile
+- Smooth scrolling and scroll-reveal animations
+- Mobile hamburger navigation
+- Commented and organized HTML, CSS and JavaScript
+- Static site with no framework
+
+## Typography
+
+- **Playfair Display** for headings and major display text
+- **Inter** for body text, navigation and interface text
 
 ## Features
 - Responsive header and navigation
